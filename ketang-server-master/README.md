@@ -1,3 +1,3 @@
 # ketang-server
 Background services for Ketang project.
-- start： node index
+- start： node index.js
